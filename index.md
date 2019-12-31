@@ -31,4 +31,4 @@ Add SDL library as a dependency
 ![Add SDL library as a dependency](PixelPush_007.png)
 
 Set project to handle High DPI
-![Set project to handle High DPI](PixelPush_007.png)
+![Set project to handle High DPI](PixelPush_008.png)
