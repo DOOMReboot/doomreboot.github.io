@@ -4,15 +4,20 @@
 
 https://www.libsdl.org/download-2.0.php
 
-Runtime Binaries:
+Download Development Libraries:
+
+  * SDL2-devel-2.0.10-VC.zip (Visual C++ 32/64-bit)
+  
+Download Runtime Binaries:
 
   * SDL2-2.0.10-win32-x86.zip (32-bit Windows)
   
   * SDL2-2.0.10-win32-x64.zip (64-bit Windows)
   
-Development Libraries:
+Extract all files to Drive:\Libraries\SDL2
 
-  * SDL2-devel-2.0.10-VC.zip (Visual C++ 32/64-bit)
+
+## Step 2 - Create Visual Studio Project
 
 Create a new Visual Studio project
 ![Create a new Visual Studio project](PixelPush_001.png)
@@ -24,6 +29,7 @@ Configure your project
 ![Configure your project](PixelPush_003.png)
 
 Edit project properties
+
 ![Edit project properties](PixelPush_004.png)
 
 Add SDL include and library directories
