@@ -16,19 +16,19 @@ Create a new Visual Studio project
 ![Create a new Visual Studio project](PixelPush_001.png)
 
 Choose Console App project template
-![Choose Console App project template](https://doomreboot.github.com/PixelPush_002.png)
+![Choose Console App project template](PixelPush_002.png)
 
 Configure your project
-![Configure your project](https://doomreboot.github.com/PixelPush_003.png)
+![Configure your project](PixelPush_003.png)
 
 Edit project properties
-![Edit project properties](https://doomreboot.github.com/PixelPush_004.png)
+![Edit project properties](PixelPush_004.png)
 
 Add SDL include and library directories
-![Add SDL include and library directories](https://doomreboot.github.com/PixelPush_005.png)
+![Add SDL include and library directories](PixelPush_005.png)
 
 Add SDL library as a dependency
-![Add SDL library as a dependency](https://doomreboot.github.com/PixelPush_007.png)
+![Add SDL library as a dependency](PixelPush_007.png)
 
 Set project to handle High DPI
-![Set project to handle High DPI](https://doomreboot.github.com/PixelPush_007.png)
+![Set project to handle High DPI](PixelPush_007.png)
