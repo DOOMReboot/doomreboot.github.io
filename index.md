@@ -13,7 +13,7 @@ Development Libraries:
   * SDL2-devel-2.0.10-VC.zip (Visual C++ 32/64-bit)
 
 Create a new Visual Studio project
-![Create a new Visual Studio project](https://doomreboot.github.com/PixelPush_001.png)
+![Create a new Visual Studio project](PixelPush_001.png)
 
 Choose Console App project template
 ![Choose Console App project template](https://doomreboot.github.com/PixelPush_002.png)
