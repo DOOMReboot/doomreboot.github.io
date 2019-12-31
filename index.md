@@ -1,6 +1,6 @@
 #Fast Pixel Plotting with SDL (C++)
 
-## Step 1 - Install SDL (Simple Direct Media Layer)
+## Step 1 - Install SDL2 (Simple Direct Media Layer)
 
 https://www.libsdl.org/download-2.0.php
 
